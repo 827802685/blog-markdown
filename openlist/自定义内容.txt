@@ -66,7 +66,7 @@
           </a>
         </span>
         <span class="nav-item">
-          <a class="nav-link" href="/" target="_blank">
+          <a class="nav-link" href="https://zjkl.qzz.io" target="_blank">
             <i class="fa fa-cloud-download" style="color:#409EFF;" aria-hidden="true"></i>
             云盘
           </a>
@@ -90,7 +90,7 @@
         </span>
         <!--版权，请尊重作者-->
         <span class="nav-item">
-          <a class="nav-link" href="https://github.com/Xhofe/alist" target="_blank">
+          <a class="nav-link" href="https://github.com/OpenListTeam/OpenList" target="_blank">
             <i class="fa-solid fa-copyright" style="color:#409EFF;" aria-hidden="true"></i>
             Alist
           </a>
