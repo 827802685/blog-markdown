@@ -22,7 +22,9 @@ bai20240830@outlook.com
 
 # 本人的其他小网站 
 
-1. ###### [今日热搜](https://news.zjkl0330.dpdns.org/)
+1. [今日热搜](https://news.zjkl0330.dpdns.org/)
+
+   github——[newsnow](https://github.com/ourongxing/newsnow)
 
    
 
@@ -30,66 +32,128 @@ bai20240830@outlook.com
 
    github—[RAG](https://github.com/Adonis142857/Real-Address-Generator)
 
+   
+
 3. ###### [个人网盘](https://bai0330.dpdns.org/openlist)
 
    废了，暂时不想管
 
    github—[Openlist](https://github.com/OpenListTeam/OpenList)
 
+   
+
 4. ###### [LibreTV](https://tv.zjkl0426.dpdns.org/)
 
    已废弃
 
-5. [MoonTV](https://moon.zjkl0426.dpdns.org/)
+   
 
-   github--[MoonTV](https://github.com/samqin123/MoonTV)
+5. gemini代理
 
-6. ###### [我以前的github.io](https://827802685.github.io/)
+   netlify————https://gemini.bai0330.dpdns.org/v1
 
-   github--[Meekdai](https://github.com/Meekdai/Gmeek-template)
-
-7. ###### [Meting API](https://music.bai0330.dpdns.org/)
-
-   部署在大陆：否
-
-   暂时不知道用来干嘛放这了
-
-8. ###### [一站式域名服务平台](https://zjkl.dpdns.org/)
-
-   还有bug在慢慢修中
-
-   github---[wr.do](https://github.com/oiov/wr.do)
-
-9. [lobechat](https://lobe.bai0330.dpdns.org/)
+   cloudflare ——https://gemini.zjkl0330.dpdns.org/v1
 
    
 
-10. [贪吃蛇](https://tcs.zjkl0330.dpdns.org/)
+6. [MoonTV](https://moon.zjkl0426.dpdns.org/)
 
-    用豆包建的
+   github--[MoonTV](https://github.com/samqin123/MoonTV)
 
-11. [红警](https://ra2.zjkl0426.dpdns.org/)
+   
+
+7. ###### [我以前的github.io](https://827802685.github.io/)
+
+   github--[Meekdai](https://github.com/Meekdai/Gmeek-template)
+
+   
+
+8. ###### [Meting API](https://music.bai0330.dpdns.org/)
+
+   部署在大陆：否
+
+   不知道用来干嘛
+
+   
+
+9. ###### [zjkl.dpdns.org](https://zjkl.dpdns.org/)
+
+   半成品有bug
+
+   github---[wr.do](https://github.com/oiov/wr.do)
+
+   
+
+10. [lobechat](https://lobe.bai0330.dpdns.org/)
+
+    半成品有bug
+
+    
+
+11. [贪吃蛇](https://tcs.zjkl0330.dpdns.org/)
+
+    用豆包建的一般般吧
+
+    
+
+12. [红警](https://ra2.zjkl0426.dpdns.org/)
 
     示例网站——[Ra2](https://game.ra2web.com/)
 
     github——[r2web](https://github.com/ra2web/ra2web.github.io)
 
-12. [Password-UUID-Generator](https://uuid.zjkl0426.dpdns.org/)
+    
 
-    第一次尝试用AI写网站
+13. [Password-UUID-Generator](https://uuid.zjkl0426.dpdns.org/)
 
-13. [1.zjkl0330.dpdns.org/04b11632-3f80-458a-ab70-8d055b0aef8e](https://1.zjkl0330.dpdns.org/04b11632-3f80-458a-ab70-8d055b0aef8e)
-
-    CF
-
-14. 
+    第一次尝试用AI写网站 
 
     
 
-    
+14. [魔法数独 | 神秘数字谜题](https://sudo.zjkl0426.dpdns.org/)
+
+    豆包搬运
 
     
 
-    
+15. CF
+
+    https://1.zjkl0330.dpdns.org/04b11632-3f80-458a-ab70-8d055b0aef8e
+
+    免费公益,可用于clash和v2rayN
 
     
+
+16. [小黑塔转圈圈](https://htzq.zjkl0330.dpdns.org/)
+
+    GitHub——**[herta_kuru](https://github.com/duiqt/herta_kuru)**
+
+    适合中国宝宝的版本
+
+    **[转圈圈~](https://blog.jixiaob.cn/backup/hertakuru/)**
+
+    
+
+17.  
+
+    
+
+18.   
+
+    
+
+19.  
+
+    
+
+20.  
+
+     
+
+
+
+# [留言板](https://lyb.zjkl0330.dpdns.org)
+
+完全基于Cloudflare Pages + Workers + KV + R2+QQ头像API
+
+github——[Message-Board](https://github.com/827802685/Message-Board)
