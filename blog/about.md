@@ -28,13 +28,13 @@ bai20240830@outlook.com
 
    
 
-2. ###### [真实地址生成器](https://rag.zjkl0330.dpdns.org/)
+2. [MoonTV](https://moon.zjkl0426.dpdns.org/)
 
-   github—[RAG](https://github.com/Adonis142857/Real-Address-Generator)
+   github--[MoonTV](https://github.com/samqin123/MoonTV)
 
    
 
-3. ###### [个人网盘](https://bai0330.dpdns.org/openlist)
+3.   [个人网盘](https://bai0330.dpdns.org/openlist)
 
    废了，暂时不想管
 
@@ -54,21 +54,17 @@ bai20240830@outlook.com
 
    cloudflare ——https://gemini.zjkl0330.dpdns.org/v1
 
-   
-
-6. [MoonTV](https://moon.zjkl0426.dpdns.org/)
-
-   github--[MoonTV](https://github.com/samqin123/MoonTV)
+   github——**[gemini-balance-lite](https://github.com/tech-shrimp/gemini-balance-lite)**
 
    
 
-7. ###### [我以前的github.io](https://827802685.github.io/)
+6. ###### [我以前的github.io](https://827802685.github.io/)
 
    github--[Meekdai](https://github.com/Meekdai/Gmeek-template)
 
    
 
-8. ###### [Meting API](https://music.bai0330.dpdns.org/)
+7. ###### [Meting API](https://music.bai0330.dpdns.org/)
 
    部署在大陆：否
 
@@ -76,7 +72,7 @@ bai20240830@outlook.com
 
    
 
-9. ###### [zjkl.dpdns.org](https://zjkl.dpdns.org/)
+8. ###### [zjkl.dpdns.org](https://zjkl.dpdns.org/)
 
    半成品有bug
 
@@ -84,19 +80,19 @@ bai20240830@outlook.com
 
    
 
-10. [lobechat](https://lobe.bai0330.dpdns.org/)
+9. [lobechat](https://lobe.bai0330.dpdns.org/)
 
-    半成品有bug
+   半成品有bug
 
-    
+   
 
-11. [贪吃蛇](https://tcs.zjkl0330.dpdns.org/)
+10. [贪吃蛇](https://tcs.zjkl0330.dpdns.org/)
 
     用豆包建的一般般吧
 
     
 
-12. [红警](https://ra2.zjkl0426.dpdns.org/)
+11. [红警](https://ra2.zjkl0426.dpdns.org/)
 
     示例网站——[Ra2](https://game.ra2web.com/)
 
@@ -104,19 +100,21 @@ bai20240830@outlook.com
 
     
 
-13. [Password-UUID-Generator](https://uuid.zjkl0426.dpdns.org/)
+12. [Password-UUID-Generator](https://uuid.zjkl0426.dpdns.org/)
 
     第一次尝试用AI写网站 
 
+    github——[Password-UUID-Generator](https://github.com/827802685/Password-UUID-Generator)
+
     
 
-14. [魔法数独 | 神秘数字谜题](https://sudo.zjkl0426.dpdns.org/)
+13. [魔法数独 | 神秘数字谜题](https://sudo.zjkl0426.dpdns.org/)
 
     豆包搬运
 
     
 
-15. CF
+14. CF
 
     https://1.zjkl0330.dpdns.org/04b11632-3f80-458a-ab70-8d055b0aef8e
 
@@ -124,7 +122,7 @@ bai20240830@outlook.com
 
     
 
-16. [小黑塔转圈圈](https://htzq.zjkl0330.dpdns.org/)
+15. [小黑塔转圈圈](https://htzq.zjkl0330.dpdns.org/)
 
     GitHub——**[herta_kuru](https://github.com/duiqt/herta_kuru)**
 
@@ -134,23 +132,27 @@ bai20240830@outlook.com
 
     
 
-17.  
+16.  
 
     
 
-18.   
+17. 
 
     
 
-19.  
+18. ######  [真实地址生成器](https://rag.zjkl0330.dpdns.org/)
+
+    github—[RAG](https://github.com/Adonis142857/Real-Address-Generator)
 
     
 
-20.  
+19. 
+
+    
+
+20.  [**](https://gh0120.qzz.io/post/HelloWord.html)
 
      
-
-
 
 # [留言板](https://lyb.zjkl0330.dpdns.org)
 
