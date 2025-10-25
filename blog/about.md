@@ -145,13 +145,19 @@ bai20240830@outlook.com
 
     
 
-19. 
+19. [五子棋游戏](https://wzq.bai0330.dpdns.org/)
+
+    用的豆包做的，部署在netlify上使用cloud flare做cdn
+
+20. 
+
+21. 
 
     
 
-20.  [**](https://gh0120.qzz.io/post/HelloWord.html)
+22. [**](https://gh0120.qzz.io/post/HelloWord.html)
 
-     
+    
 
 # [留言板](https://lyb.zjkl0330.dpdns.org)
 
