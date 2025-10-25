@@ -34,7 +34,7 @@ bai20240830@outlook.com
 
    
 
-3.   [个人网盘](https://bai0330.dpdns.org/openlist)
+3. [个人网盘](https://bai0330.dpdns.org/openlist)
 
    废了，暂时不想管
 
@@ -80,19 +80,19 @@ bai20240830@outlook.com
 
    
 
-9. [lobechat](https://lobe.bai0330.dpdns.org/)
+9. ###### [lobechat](https://lobe.bai0330.dpdns.org/)
 
    半成品有bug
 
    
 
-10. [贪吃蛇](https://tcs.zjkl0330.dpdns.org/)
+10. ###### [贪吃蛇](https://tcs.zjkl0330.dpdns.org/)
 
     用豆包建的一般般吧
 
     
 
-11. [红警](https://ra2.zjkl0426.dpdns.org/)
+11. ###### [红警](https://ra2.zjkl0426.dpdns.org/)
 
     示例网站——[Ra2](https://game.ra2web.com/)
 
@@ -100,7 +100,7 @@ bai20240830@outlook.com
 
     
 
-12. [Password-UUID-Generator](https://uuid.zjkl0426.dpdns.org/)
+12. ###### [Password-UUID-Generator](https://uuid.zjkl0426.dpdns.org/)
 
     第一次尝试用AI写网站 
 
@@ -108,13 +108,13 @@ bai20240830@outlook.com
 
     
 
-13. [魔法数独 | 神秘数字谜题](https://sudo.zjkl0426.dpdns.org/)
+13. ###### [魔法数独 | 神秘数字谜题](https://sudo.zjkl0426.dpdns.org/)
 
     豆包搬运
 
     
 
-14. CF
+14. ###### CF
 
     https://1.zjkl0330.dpdns.org/04b11632-3f80-458a-ab70-8d055b0aef8e
 
@@ -122,23 +122,22 @@ bai20240830@outlook.com
 
     
 
-15. [小黑塔转圈圈](https://htzq.zjkl0330.dpdns.org/)
+15. ###### [小黑塔转圈圈](https://htzq.zjkl0330.dpdns.org/)
 
     GitHub——**[herta_kuru](https://github.com/duiqt/herta_kuru)**
 
-    适合中国宝宝的版本
-
-    **[转圈圈~](https://blog.jixiaob.cn/backup/hertakuru/)**
+    适合中国宝宝的版本——**[转圈圈](https://blog.jixiaob.cn/backup/hertakuru/)**
 
     
 
-16.  
+16. ###### [红楼梦戏院2048](https://2048.zjkl0426.dpdns.org/)
 
-    
 
-17. 
+​    豆包搬运
 
-    
+17. ###### [星际战舰](https://xjzj.zjkl0330.dpdns.org)
+
+    豆包搬运
 
 18. ######  [真实地址生成器](https://rag.zjkl0330.dpdns.org/)
 
