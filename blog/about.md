@@ -42,9 +42,9 @@ bai20240830@outlook.com
 
    
 
-4. ###### [LibreTV](https://tv.zjkl0426.dpdns.org/)
+4. ###### [SPlayer](https://zjkl0330.dpdns.org/)
 
-   已废弃
+   网易音乐播放器
 
    
 
@@ -145,17 +145,37 @@ bai20240830@outlook.com
 
     
 
-19. [五子棋游戏](https://wzq.bai0330.dpdns.org/)
+19. ###### [五子棋游戏](https://wzq.bai0330.dpdns.org/)
 
     用的豆包做的，部署在netlify上使用cloud flare做cdn
 
-20. 
+20. ###### [uptime](https://zjkl0426.dpdns.org/)
 
-21. 
+    Github——[uptime](https://github.com/shaoyouvip/uptime/)
+
+21. [moonTV](https://tv.zjkl0426.dpdns.org/)
+
+    已废弃密码是zjkl
+
+22. ###### [五子棋](https://wzq.bai0330.dpdns.org/)
+
+    使用的gemini的api人机对战时可能会有一定延迟
+
+23. ###### [网站导航](https://ng.zjkl0330.dpdns.org)
 
     
 
-22. [**](https://gh0120.qzz.io/post/HelloWord.html)
+24. ###### [图床](https://img.zjkl0330.dpdns.org/)
+
+    基于tg+cloudflare
+
+25. 
+
+26. 
+
+    
+
+27. [**](https://gh0120.qzz.io/post/HelloWord.html)
 
     
 
