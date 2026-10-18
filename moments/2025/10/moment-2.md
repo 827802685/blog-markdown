@@ -6,7 +6,7 @@ date: 2025-10-25T07:56:26.000Z
 
 服了
 
-![](https://gh.zjkl0330.dpdns.org/media/ODI3ODAyNjg1L2ltYWdlL3JlZnMvaGVhZHMvbWFpbi9waWN0dXJlcy9RUTIwMjUxMDI1LTE1NDIyOS5wbmc.png)
+![](https://gh.zjkl0330.dpdns.org/827802685/blog-markdown/raw/main/media/ODI3ODAyNjg1L2ltYWdlL3JlZnMvaGVhZHMvbWFpbi9waWN0dXJlcy9RUTIwMjUxMDI1LTE1NDIyOS5wbmc.png)
 
 真的是气死
 
