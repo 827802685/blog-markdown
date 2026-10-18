@@ -22,5 +22,5 @@ https://uuid.zjkl0426.dpdns.org/
 
 https://github.com/827802685/Password-UUID-Generator
 
-![](https://gh.zjkl0330.dpdns.org/media/ODI3ODAyNjg1L1Bhc3N3b3JkLVVVSUQtR2VuZXJhdG9yL3JlZnMvaGVhZHMvbWFpbi9waWN0dXJlcy_lsY_luZXmiKrlm74gMjAyNS0wOS0yMSAxNDAwNTkucG5n.png#blurhash=LMRMoH%25M%5Eh%25M%7EUbHE4oeadj%5BWXay&width=1365&height=767)
+![](https://gh.zjkl0330.dpdns.org/827802685/blog-markdown/raw/main/media/ODI3ODAyNjg1L1Bhc3N3b3JkLVVVSUQtR2VuZXJhdG9yL3JlZnMvaGVhZHMvbWFpbi9waWN0dXJlcy_lsY_luZXmiKrlm74gMjAyNS0wOS0yMSAxNDAwNTkucG5n.png#blurhash=LMRMoH%25M%5Eh%25M%7EUbHE4oeadj%5BWXay&width=1365&height=767)
 
