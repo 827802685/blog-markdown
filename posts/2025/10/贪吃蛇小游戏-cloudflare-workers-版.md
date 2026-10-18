@@ -10,7 +10,7 @@ date: 2025-10-03T01:05:27.000Z
 
 这是一款专为多端适配设计的贪吃蛇小游戏，支持部署在 Cloudflare Workers 上，无需额外服务器即可通过互联网访问。游戏融合了经典贪吃蛇玩法与现代交互设计，同时适配手机端（触屏操作）和桌面端（键盘 / 鼠标操作），提供流畅的跨设备游戏体验。
 
-![](https://github.com/827802685/image/blob/main/pictures/屏幕截图%202025-10-06%20215449.png?raw=true)
+![](https://gh.zjkl0330.dpdns.org/media/ODI3ODAyNjg1L2ltYWdlL21haW4vcGljdHVyZXMv5bGP5bmV5oiq5Zu-IDIwMjUtMTAtMDYgMjE1NDQ5LnBuZw.png)
 
 ## 核心功能
 
