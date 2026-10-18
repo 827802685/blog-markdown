@@ -5,7 +5,7 @@ summary: "网页版红警"
 alias: "ra2web"
 date: 2025-09-15T03:52:37.000Z
 ---
-![](https://gh.zjkl0330.dpdns.org/media/ODI3ODAyNjg1L2ltYWdlL3JlZnMvaGVhZHMvbWFpbi_lsY_luZXmiKrlm74gMjAyNS0wOS0xNiAxNzQxMjUucG5n.png#blurhash=LNIowS1iocoI90%5E0S5K5O%2C%2BxwJxC&width=799&height=600)
+![](https://gh.zjkl0330.dpdns.org/827802685/blog-markdown/raw/main/media/ODI3ODAyNjg1L2ltYWdlL3JlZnMvaGVhZHMvbWFpbi_lsY_luZXmiKrlm74gMjAyNS0wOS0xNiAxNzQxMjUucG5n.png#blurhash=LNIowS1iocoI90%5E0S5K5O%2C%2BxwJxC&width=799&height=600)
 
 ### Github托管页面
 
