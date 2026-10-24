@@ -4,7 +4,7 @@ title: "密码与UUID生成器"
 summary: "用AI写的一坨屎山代码"
 date: 2025-09-21T06:14:09.000Z
 ---
-![](https://github.com/827802685/image/blob/main/pictures/F16C86FE855A48B5176E6586E915EA49.jpg?raw=true)
+![](https://gh.zjkl0330.dpdns.org/827802685/blog-markdown/raw/main/media/ODI3ODAyNjg1L2ltYWdlL21haW4vcGljdHVyZXMvRjE2Qzg2RkU4NTVBNDhCNTE3NkU2NTg2RTkxNUVBNDkuanBn.jpg)
 
 # 用AI写的一坨屎山代码
 
