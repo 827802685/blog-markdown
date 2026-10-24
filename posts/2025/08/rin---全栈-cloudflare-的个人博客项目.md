@@ -4,7 +4,7 @@ title: " Rin - 全栈 Cloudflare 的个人博客项目"
 summary: "Rin 是一个基于 Cloudflare Pages + Workers + D1 + R2 全家桶的博客，无需服务器无需备案，只需要一个解析到 Cloudflare 的域名即可部署"
 date: 2025-08-25T08:43:41.000Z
 ---
-![](https://raw.githubusercontent.com/827802685/image/refs/heads/main/154DB82A990DF7E4C8C73C23261A9077.jpg#blurhash=LGFhPR%24B4T%5Eh%24wMxMx%252EhWCs%2Cxv&width=3000&height=1687)
+![](https://gh.zjkl0330.dpdns.org/827802685/blog-markdown/raw/main/media/ODI3ODAyNjg1L2ltYWdlL3JlZnMvaGVhZHMvbWFpbi8xNTREQjgyQTk5MERGN0U0QzhDNzNDMjMyNjFBOTA3Ny5qcGc.jpg#blurhash=LGFhPR%24B4T%5Eh%24wMxMx%252EhWCs%2Cxv&width=3000&height=1687)
 
 # 关于建站
 
